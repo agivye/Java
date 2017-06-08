@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Joe_Pc
+ * @author Agivye
  */
 public class Prime {
     
