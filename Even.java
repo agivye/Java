@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Joe_Pc
+ * @author Agivye
  */
 
 //Question: Write a program that allows the user to enter a number and print if it's even or odd.
